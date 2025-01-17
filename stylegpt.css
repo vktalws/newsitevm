@@ -125,17 +125,14 @@ section {
 }
 
 #escritorio{
-    background-image: url('historia.jpg');
     background-size: cover;
 }
 
 #servicos {
-    background-image: url('servicos.jpeg');
     background-size: cover;
 }
 
 #equipe {
-    background-image: url('equipe.jpg');
     display: flex;
     justify-content: space-between;
     align-items: center;
