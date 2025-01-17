@@ -4,13 +4,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: black
+    color: rgba(73, 43, 23)
 }
 
 /* Cabeçalho */
 header {
-    background: black;
-    color: #fff;
+    background: white;
+    color: rgb(73, 43, 23);
     padding: 1rem 0;
     position: fixed;
     top: 0;
@@ -32,7 +32,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: rgb(73, 43, 23);
     text-decoration: none;
     font-weight: bold;
 }
@@ -297,4 +297,3 @@ footer {
         height: 250px; /* Ajustar a altura para telas menores */
     }
 }
-
